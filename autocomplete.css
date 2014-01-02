@@ -1,0 +1,22 @@
+.aCListContainer{
+    display: none;
+    position:absolute;
+    border: 2px #D0D0D0 solid;
+    background: white;
+    z-index: 100;
+}
+
+.aCListContainer table{
+    width: 100%;
+    cursor: default;
+}
+
+.aCListContainer td{
+    font: 14px arial;
+    height: 25px;
+    padding: 0 8px;
+}
+
+.mo{
+    background-color: #E6E4E5;
+}
