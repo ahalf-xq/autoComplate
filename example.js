@@ -1,0 +1,3 @@
+$(function() {
+    $('#materialName').autoComplete();
+});
